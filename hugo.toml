@@ -1,0 +1,4 @@
+baseURL = 'https://emmofolletto.github.io/'
+languageCode = 'en-us'
+title = 'My Thoughts Inexactly'
+theme = 'github.com/nodejh/hugo-theme-mini'
