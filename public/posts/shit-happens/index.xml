@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Thoughts Inexactly</title>
-    <link>https://emmofolletto.github.io/</link>
+    <link>https://emmofolletto.github.io/posts/shit-happens/</link>
     <description>Recent content on My Thoughts Inexactly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://emmofolletto.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://emmofolletto.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://emmofolletto.github.io/about/</guid>
-      <description>Hi, I&amp;rsquo;m Emma.</description>
-    </item>
+    <atom:link href="https://emmofolletto.github.io/posts/shit-happens/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://emmofolletto.github.io/1/01/</link>

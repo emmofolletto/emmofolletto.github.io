@@ -2,9 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://emmofolletto.github.io/about/</loc>
+  </url><url>
+    <loc>https://emmofolletto.github.io/posts/shit-happens/</loc>
+  </url><url>
+    <loc>https://emmofolletto.github.io/1/01/</loc>
+  </url><url>
     <loc>https://emmofolletto.github.io/categories/</loc>
   </url><url>
     <loc>https://emmofolletto.github.io/</loc>
+  </url><url>
+    <loc>https://emmofolletto.github.io/posts/</loc>
   </url><url>
     <loc>https://emmofolletto.github.io/tags/</loc>
   </url>

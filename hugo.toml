@@ -1,4 +1,21 @@
 baseURL = 'https://emmofolletto.github.io/'
+title = "My Thoughts Inexactly"
 languageCode = 'en-us'
-title = 'My Thoughts Inexactly'
-theme = 'github.com/nodejh/hugo-theme-mini'
+theme = 'github.com/lxndrblz/anatole'
+summarylength = 50
+enableEmoji = true
+
+[params]
+author = "emmofolletto"
+title = "My Thoughts Inexactly"
+description = "a collection of stories and notes in engineering management"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/emmafollette/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:emmofolletto@gmail.com"
